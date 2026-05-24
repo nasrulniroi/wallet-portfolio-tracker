@@ -1,0 +1,14 @@
+{
+  "uniswap_v3": {
+    "type": "dex"
+  },
+  "aave_v3": {
+    "type": "lending"
+  },
+  "compound_v3": {
+    "type": "lending"
+  },
+  "curve": {
+    "type": "dex"
+  }
+}
